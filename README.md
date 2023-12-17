@@ -25,9 +25,6 @@ pip install optuna
 >This function is responsible for loading the data and preparing it for training.  
 >It provides train_loader, valid_loader, and test_loader for training, validation, and testing, respectively.
 
-### objective()
->Used for hyperparameter tuning with Optuna.
-
 ### train_model()
   Trains the ResNet34 model on the provided dataset.
 
@@ -51,7 +48,6 @@ Ensure the necessary libraries are installed as mentioned in the Installation se
 Set up a Google Colab environment.  
 Import the necessary modules and functions.  
 Use load_data() to prepare the data.  
-Optionally, perform hyperparameter tuning using objective().  
 Train the model using train_model().  
 Validate the model using validate_model().  
 Evaluate the model using evaluate_model().  
