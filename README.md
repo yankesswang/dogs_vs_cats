@@ -1,6 +1,6 @@
 <h1 align="center">Dogs vs Cats Image Classification using ResNet34</h1>
 <p align="center">
-  <img src="cats_vs_dogs-4.0.1.png" alt="Dogs vs Cats" width="500">
+  <img src="dogs_vs_cats.png" alt="Dogs vs Cats" width="500">
 </p>
 <p align="center">
   <em>An image classification project using a pre-trained ResNet34 model to differentiate between dogs and cats.</em>
